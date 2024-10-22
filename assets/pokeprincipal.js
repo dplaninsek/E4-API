@@ -52,7 +52,7 @@ const loadAndPrint = (pokemonsList) => {
       isFetching = false;
     }, 1500);
   };
-
+ 
 async function myFunction() {
   try{
 
